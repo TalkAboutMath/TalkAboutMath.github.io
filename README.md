@@ -27,7 +27,7 @@ If yes (or even if you haven’t), then the four color theorem is for you!!
 The four color theorem revolves around a simple statement: 
 You can color any map with at most four colors .
 
-<img src="https://people.math.gatech.edu/~thomas/FC/usa.gif">
+<img src="https://i2.wp.com/geoawesomeness.com/wp-content/uploads/2017/12/Four-color-map-2.png?resize=1119%2C671&ssl=1">
 
 
 This statement was put forth in 1852 by Francis Guthrie when he wondered what the minimum number of colors would be needed in order to color a map of New England--but how do we know this statement is true for every single map?
