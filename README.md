@@ -86,4 +86,54 @@ Be sure to post your wonderful creations on Instagram and tag us @talkaboutmath 
 
 If you’re still amazed by tessellations, might I suggest you visit the National Museum of Mathematics because they have an awesome interactive exhibit called Tessellation Station! There, you can make your own tessellations on a magnetic board!
 
+-------------------------------------------
+
+# Game of Life:
+
+Conway’s game of life (not the board game where your fictional life is dictated by the omnipotent rainbow spinner) is an example of cellular automation and is actually interestingly considered a “zero-person game” as a person only sets up the starting parameters of the game, and then it runs completely by itself!
+
+<img src="https://i0.wp.com/www.stewardyourtime.com/wp-content/uploads/2016/10/Your-life-in-a-12x12-grid-empty-400x400.png?resize=400%2C400">
+
+The game takes place on a 2d grid where each square is called a “cell.” Each cell is considered either “dead” as denoted by an empty square or “alive” as denoted by a filled in square. You can set up the grid however you like with whatever arrangement of dead or alive cells you want. Once the first “generation” is set, the next generations can be found by looking at every cell and the 8 cells that surround it applying these rules:
+<ul>
+<li>If an alive cell has one or less alive neighbors, then the cell dies from underpopulation</li>
+<li>If an alive cell has four or more alive neighbors, then the cell dies from overpopulation</li>
+<li>If an alive cell has two or three alive neighbors, then the cell stays alive</li>
+<li>If a dead cell has exactly three neighbors, then the cell is born from reproduction and becomes alive</li>
+</ul>
+If you simplify these rules, it basically turns out to:
+<ul>
+<li>If any alive cell is surrounded by 2 or 3 neighbors, it stays alive</li>
+<li>If any dead cell is surrounded by exactly 3 neighbors, it turns alive</li>
+<li>Every other cell turns dead or stays dead</li>
+</ul>
+
+From these rules, you can get stuff like this from quickly moving through the generations
+
+<img src="https://i.imgur.com/ZRY1IlT.gif">
+
+The neat part of this game is the wild results and behaviors that emerge based on how you set up the first stage. Ever since its creation, people have found fun patterns that can be produced from this simple game. These include things from simple patterns that glide across the grid 
+
+<img src="https://upload.wikimedia.org/wikipedia/en/d/d0/Game_of_life_animated_glider_2.gif">
+<img src="https://www.conwaylife.com/w/images/f/f5/Weekender_small.gif">
+
+The game of life is also capable of more than just interesting patterns. From a game, a Turing machine can actually be made. This means that the game of life can be used to calculate any possible computation that your laptop can do (although only given unlimited memory and time)!
+
+<img src="https://www.conwaylife.com/w/images/thumb/4/49/Turingmachine_large.png/936px-Turingmachine_large.png">
+
+Also, the game of life isn’t just limited to grids! Math enthusiasts and programmers have created different versions too. Check out this one done on a penrose tiling!
+
+<img src="https://i.stack.imgur.com/Hne4R.gif">
+
+At its core, we think that the reason why Conway’s game of life is so cool is that such amazingly complex and unexpected outcomes can come from a few simple rules and starting parameters. What emerges from this basic set of rules is both dynamic and captivating, and the game is really something you have to take a try at yourself. Below we included links to sites where you can play around with the game!
+
+https://bitstorm.org/gameoflife/
+http://pmav.eu/stuff/javascript-game-of-life-v3.1.1/
+
+
+
+I also suggest taking a look at this forum if you want to peruse some of the fascinating patterns people have come up with over the years:
+
+https://www.conwaylife.com/forums/viewforum.php?f=5&sid=02f5bdcb1d5467c0ef65260eff202053 
+
 
