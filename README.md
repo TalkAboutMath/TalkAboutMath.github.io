@@ -6,7 +6,6 @@ heyoo we get real funky with math here yo
 
 ----------------------------------
 
-Intro text:
 Hello! Welcome to our humble website! 
 
 We believe that math is severely underrated, and it honestly deserves a lot more attention than it gets. So this our small contribution to sharing a little bit of neat math around!
