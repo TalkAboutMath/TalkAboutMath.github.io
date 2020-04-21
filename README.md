@@ -35,6 +35,7 @@ This statement was put forth in 1852 by Francis Guthrie when he wondered what th
 Disproving this theorem is very easy. All you have to do is find one map where it requires a total of 5 colors to make every region in the map a different color from all the regions touching it. (Note, a bunch of region meetings at a point technically doesn’t count as touching).
 
 <img src="https://www.kleemans.ch/static/fourcolors/examples/img02.png">
+<img src="https://www.kleemans.ch/images/181.png">
 
 Do you think this map can be colored with 4 colors?
 
