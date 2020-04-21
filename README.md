@@ -48,6 +48,49 @@ Below, I included a program written by ___. This allows you to construct any wil
 
 https://www.kleemans.ch/four-color-theorem-map-solver
 
+-----------------------------------
+
+Hey there! You seem to have stumbled upon our Tessellation Perfection!
+We sure do love our shapes on this page… Have you ever just noticed how we are surrounded by shapes? Just think of it, a lot of our everyday objects were made from blueprints that combine simple shapes together. Maybe the clothes you’re wearing have a pattern; another great instance of shapes!
+
+Now this is our Tessellation Perfection, not Shapes Amaze. So… what is a tessellation you may ask? A tessellation is a periodic tiling that has a repeating pattern with no gaps or overlaps. Seems complex right? Well… not really. Tessellations can open the door to a whole new world of math in geometry, but we just need to focus on the basics.
+
+Some tessellations can be really simple, like a checkerboard as so:
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Checkerboard_pattern.svg/1200px-Checkerboard_pattern.svg.png">
+
+Essentially, tessellations can be repeated patterns. You can rotate, slide (translate), and reflect (mirror) polygons to make your very own tessellation. (Don’t worry, at the end of this page there are some cool pdfs where you can possibly make your own tessellations AND color some!)
+
+2D tessellations can come in two forms. They are either classified as being a Regular Tessellation or are a Semi-Regular Tessellation. 
+
+The Regular Tessellation is like your good old checkerboard pattern. These tessellations can be made from one REGULAR polygon, like an equilateral triangle, square, and hexagon.
+
+The Semi-Regular Tessellation is where things start to get a bit crazy. These tessellations are made with more than one REGULAR polygon. Here’s a quick example of one that uses octagons and squares:
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Tiling_Semiregular_4-8-8_Truncated_Square.svg/400px-Tiling_Semiregular_4-8-8_Truncated_Square.svg.png">
+
+Now, tessellations don’t necessarily have to be made from polygons. Artists and mathematicians have taken their spin on the topic. One Dutch graphic artist, MC Escher, created some awesome tessellations by using animal shapes, as seen below. 
+
+<img src="https://www.widewalls.ch/tessellation-mathematics-method-art/
+https://d2jv9003bew7ag.cloudfront.net/uploads/MC-Escher-Lizard-1942.jpg">
+
+
+Some of our other favorite tessellations include this bunny one!
+
+<img src="https://i.pinimg.com/originals/42/4c/7b/424c7be21010bd963ef7319c7f4f260f.gif">
+
+
+
+Now, you’re pretty well informed when it comes to tessellations! I suggest you look at some of these cool worksheets and make your own tessellations! 
+This one helps you create one, but you’re more than welcome to create tessellations with YOUR favorite polygons!
+
+This second worksheet is for coloring, and it shows a more complicated semi-regular tessellation!
+
+Be sure to post your wonderful creations on Instagram and tag us @talkaboutmath for a chance to be featured on our page!
+
+If you’re still amazed by tessellations, might I suggest you visit the National Museum of Mathematics because they have an awesome interactive exhibit called Tessellation Station! There, you can make your own tessellations on a magnetic board!
+
+
 
 
 
