@@ -6,8 +6,6 @@ heyoo we get real funky with math here yo
 
 ----------------------------------
 
-Game of Life and Four Color Theorem - Display txt
-
 Intro text:
 Hello! Welcome to our humble website! 
 
