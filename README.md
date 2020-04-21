@@ -17,7 +17,7 @@ We believe that math is severely underrated, and it honestly deserves a lot more
 
 We have compiled three of our favorite subjects to show you--including extras for you to play with. Enjoy!
 
-
+----------------------------------
 
 Four Color Theorem:
 
