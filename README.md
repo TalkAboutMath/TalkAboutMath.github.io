@@ -71,8 +71,7 @@ The Semi-Regular Tessellation is where things start to get a bit crazy. These te
 
 Now, tessellations don’t necessarily have to be made from polygons. Artists and mathematicians have taken their spin on the topic. One Dutch graphic artist, MC Escher, created some awesome tessellations by using animal shapes, as seen below. 
 
-<img src="https://www.widewalls.ch/tessellation-mathematics-method-art/
-https://d2jv9003bew7ag.cloudfront.net/uploads/MC-Escher-Lizard-1942.jpg">
+<img src="https://d2jv9003bew7ag.cloudfront.net/uploads/MC-Escher-Lizard-1942.jpg">
 
 
 Some of our other favorite tessellations include this bunny one!
