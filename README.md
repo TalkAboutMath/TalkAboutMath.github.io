@@ -14,13 +14,13 @@ We have compiled three of our favorite subjects to show you--including extras fo
 
 ----------------------------------
 
-Four Color Theorem:
+# Four Color Theorem:
 
 Have you ever wondered: “if I colored maps for a living, what is the least number of colored crayons I would need to do my job?”
 
 If yes (or even if you haven’t), then the four color theorem is for you!! 
 The four color theorem revolves around a simple statement: 
-You can color any map with at most four colors .
+You can color any map with at most four colors.
 
 <img src="https://i2.wp.com/geoawesomeness.com/wp-content/uploads/2017/12/Four-color-map-2.png?resize=1119%2C671&ssl=1">
 
@@ -46,7 +46,7 @@ Below, I included a program written by ___. This allows you to construct any wil
 https://www.kleemans.ch/four-color-theorem-map-solver
 
 -----------------------------------
-
+# Tessellation Perfection!:
 Hey there! You seem to have stumbled upon our Tessellation Perfection!
 We sure do love our shapes on this page… Have you ever just noticed how we are surrounded by shapes? Just think of it, a lot of our everyday objects were made from blueprints that combine simple shapes together. Maybe the clothes you’re wearing have a pattern; another great instance of shapes!
 
@@ -85,24 +85,5 @@ This second worksheet is for coloring, and it shows a more complicated semi-regu
 Be sure to post your wonderful creations on Instagram and tag us @talkaboutmath for a chance to be featured on our page!
 
 If you’re still amazed by tessellations, might I suggest you visit the National Museum of Mathematics because they have an awesome interactive exhibit called Tessellation Station! There, you can make your own tessellations on a magnetic board!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
