@@ -1,0 +1,137 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Game of Life</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">T.A.M</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li><a href="index.html">Home</a></li>
+							<li><a href="fourcolorpage.html">Four Color Theorem</a></li>
+							<li><a href="tessellations.html">Tessellations</a></li>
+							<li class="active"><a href="gameoflife.html">Game of Life</a></li>
+							<li><a href="socialmedia.html">Join us on Insta</a></li>
+						</ul>
+						<ul class="icons">
+							<li><a href="https://www.instagram.com/talkaboutmath/" target="_blank" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Post -->
+							<section class="post">
+								<header class="major">
+									<h1>Game of Life<br />
+									</h1>
+									<p>(not the board game where your fictional life is dictated by the omnipotent rainbow spinner)</p>
+								</header>
+
+								<p>Conway’s game of life is an example of cellular automation and is actually interestingly considered a “zero-person game” as a person only sets up the starting parameters of the game, and then it runs completely by itself!</p>
+
+								<div class="image main"><img src="https://i0.wp.com/www.stewardyourtime.com/wp-content/uploads/2016/10/Your-life-in-a-12x12-grid-empty-400x400.png?resize=400%2C400" alt="" /></div>
+
+								<p>The game takes place on a 2d grid where each square is called a “cell.” Each cell is considered either “dead” as denoted by an empty square or “alive” as denoted by a filled in square. You can set up the grid however you like with whatever arrangement of dead or alive cells you want. Once the first “generation” is set, the next generations can be found by looking at every cell and the 8 cells that surround it applying these rules:</p>
+
+								<ul>
+								<li>If an alive cell has one or less alive neighbors, then the cell dies from underpopulation</li>
+								<li>If an alive cell has four or more alive neighbors, then the cell dies from overpopulation</li>
+								<li>If an alive cell has two or three alive neighbors, then the cell stays alive</li>
+								<li>If a dead cell has exactly three neighbors, then the cell is born from reproduction and becomes alive</li>
+								</ul>
+								If you simplify these rules, it basically turns out to:
+								<ul>
+								<li>If any alive cell is surrounded by 2 or 3 neighbors, it stays alive</li>
+								<li>If any dead cell is surrounded by exactly 3 neighbors, it turns alive</li>
+								<li>Every other cell turns dead or stays dead</li>
+								</ul>
+
+								<p>From these rules, you can get stuff like this from quickly moving through the generations</p>
+
+								<div class="image main"><img src="images/gameoflife_img1.gif" alt="" /></div>
+
+								<p>The neat part of this game is the wild results and behaviors that emerge based on how you set up the first stage. Ever since its creation, people have found fun patterns that can be produced from this simple game. These include things from simple patterns that glide across the grid </p>
+
+								<div class="image main"><img src="https://upload.wikimedia.org/wikipedia/en/d/d0/Game_of_life_animated_glider_2.gif" alt="" /></div>
+								<div class="image main"><img src="https://www.conwaylife.com/w/images/f/f5/Weekender_small.gif" alt="" /></div>
+
+								<p>The game of life is also capable of more than just interesting patterns. From a game, a Turing machine can actually be made. This means that the game of life can be used to calculate any possible computation that your laptop can do (although only given unlimited memory and time)!</p>
+
+								<div class="image main"><img src="https://www.conwaylife.com/w/images/thumb/4/49/Turingmachine_large.png/936px-Turingmachine_large.png" alt="" /></div>
+
+								<p>Also, the game of life isn’t just limited to grids! Math enthusiasts and programmers have created different versions too. Check out this one done on a penrose tiling!</p>
+
+								<div class="image main"><img src="https://i.stack.imgur.com/Hne4R.gif" alt="" /></div>
+
+								<a name = "pagecheckpoint"></a>
+
+								<p>At its core, we think that the reason why Conway’s game of life is so cool is that such amazingly complex and unexpected outcomes can come from a few simple rules and starting parameters. What emerges from this basic set of rules is both dynamic and captivating, and the game is really something you have to take a try at yourself. Below I included a game of life you can set up and play with. This fantastic implementation was done by Peter Daily and can be found with @thepeted at CodePen!</p>
+								
+
+								<ul class="actions special">
+									<li><a href="game_window.html" class="button large">Play the Game of Life</a></li>
+								</ul>
+								
+								
+								
+
+
+								<p>I also suggest taking a look at this forum if you want to peruse some of the fascinating patterns people have come up with over the years:
+
+								<br><a href="https://www.conwaylife.com/forums/viewforum.php?f=5&sid=02f5bdcb1d5467c0ef65260eff202053" target="_blank">Forum Link</a> </p>
+
+
+							</section>
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+
+							<section>
+								<h3>Social</h3>
+								<ul class="icons alt">
+									<li><a href="https://www.instagram.com/talkaboutmath/" target="_blank" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+								</ul>
+							</section>
+						</section>
+					</footer>
+
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>Talk About Math</li><li>A Personal Project for Steven H. Strogatz</li><li>HTML5 UP Used</li></ul>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
